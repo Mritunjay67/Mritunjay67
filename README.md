@@ -54,8 +54,7 @@ while building real projects step by step.
 ---
 
 ## 🐍 Contribution Snake  
-![Snake Animation](https://raw.githubusercontent.com/Mritunjay67/Mritunjay67/output/github-contribution-grid-snake-dark.svg)
-
+![Snake Animation](https://raw.githubusercontent.com/Mritunjay67/Mritunjay67/output/snake-dark.svg)
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mritunjay67/Mritunjay67/output/github-contribution-grid-snake-dark.svg" />
 </p>
