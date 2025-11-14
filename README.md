@@ -34,6 +34,7 @@ while building real projects step by step.
 ### **Cybersecurity**
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
 ![Security](https://img.shields.io/badge/Ethical_Hacking-EE0000?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mritunjay67&layout=compact&theme=tokyonight)
 
 ---
 
@@ -52,7 +53,7 @@ while building real projects step by step.
  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mritunjay67&theme=tokyonight" height="160"/>
 </p>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mritunjay67&layout=compact&theme=tokyonight)
+
 
 
 ---
