@@ -51,12 +51,11 @@ while building real projects step by step.
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-![Mritunjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mritunjay67&show_icons=true&theme=tokyonight)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mritunjay67&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mritunjay67&theme=tokyonight)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mritunjay67&show_icons=true&theme=tokyonight" height="160"/>
