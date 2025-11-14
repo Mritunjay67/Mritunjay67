@@ -1,4 +1,6 @@
 <!-- Typing Animation -->
+![Visitors](https://komarev.com/ghpvc/?username=Mritunjay67&label=Profile+Views&color=blue&style=flat)
+
 <h1 align="center">Hi 👋, I'm Mritunjay Gupta</h1>
 <h3 align="center">Full-Stack Developer (in progress) | AI & Cybersecurity Learner | B.Sc. IT TY</h3>
 
@@ -35,7 +37,7 @@ while building real projects step by step.
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
 ![Security](https://img.shields.io/badge/Ethical_Hacking-EE0000?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mritunjay67&layout=compact&theme=tokyonight)
+
 
 ---
 
@@ -49,13 +51,28 @@ while building real projects step by step.
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+![Mritunjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mritunjay67&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mritunjay67&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mritunjay67&theme=tokyonight)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mritunjay67&show_icons=true&theme=tokyonight" height="160"/>
  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mritunjay67&theme=tokyonight" height="160"/>
 </p>
 
+---
+## 📈 Activity Graph
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mritunjay67&theme=tokyo-night)
+
+---
+## 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Mritunjay67&theme=dracula&margin-w=15)
 
 ---
 
