@@ -8,10 +8,10 @@
 
 ---
 
-## 🚀 About Me  
-I'm passionate about creating **web applications, AI-based tools, and secure digital systems**.  
-Currently learning and building step-by-step to become a **strong full-stack developer** with  
-AI + cybersecurity skills.
+## 🚀 About Me
+I'm passionate about creating **web applications, AI tools, and secure systems**.  
+Currently learning Full-Stack Development, Python AI, and Ethical Hacking—  
+while building real projects step by step.
 
 ---
 
@@ -37,41 +37,42 @@ AI + cybersecurity skills.
 ---
 
 ## 📌 Current Projects
-- 🔐 **FLY Social** — Full social media UI + features  
+- 🔐 **FLY Social** — social media UI + features  
 - 🤖 **AI Chatbot / VoiceBot** (Python)  
-- 📄 **CareerXpert** — Career suggestion + PDF generator  
-- 🎓 **College Project** — AI + Web + IoT  
+- 📄 **CareerXpert** — Career suggestion tool with PDF  
+- 🎓 **College Project:** AI + Web + IoT  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mritunjay67&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mritunjay67&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Mritunjay67/Mritunjay67/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 ## 🎯 Goals
-- Become a skilled full-stack developer  
-- Build AI-driven applications  
+- Become a strong Full-Stack Developer  
+- Build AI-powered applications  
 - Master cybersecurity  
-- Create my own tech company  
-- Give a luxurious life to my parents  
+- Start my own tech company  
+- Give a better, luxurious life to my parents  
 
 ---
 
 ## 📫 Contact  
-📧 Email: mritunjayg32@gmail.com 
-🔗 LinkedIn: linkedin.com/in/mritunjay-gupta-882875282 
+📧 **Email:** mritunjayg32@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/mritunjay-gupta-882875282  
 
 ---
 
-### ⭐ “Learning step by step. Building my future one line of code at a time.”  
+### ⭐ “Learning step by step. Building my future one line of code at a time.”
