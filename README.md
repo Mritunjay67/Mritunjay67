@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mritunjay Gupta</h1>
 <h3 align="center">Full-Stack Developer (in progress) | AI & Cybersecurity Learner | B.Sc. IT TY</h3>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=00A3FF&center=true&vCenter=true&random=false&width=600&lines=Building+Web+Apps+%26+AI+Tools;Learning+Full-Stack+Dev+%26+Cybersecurity;Growing+1%25+Every+Single+Day" alt="Typing SVG" />
 </p>
@@ -34,6 +35,8 @@ while building real projects step by step.
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
 ![Security](https://img.shields.io/badge/Ethical_Hacking-EE0000?style=for-the-badge&logo=kalilinux&logoColor=white)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mritunjay67&theme=tokyonight)
+
 ---
 
 ## 📌 Current Projects
@@ -45,11 +48,12 @@ while building real projects step by step.
 ---
 
 ## 📊 GitHub Stats
-
+![Mritunjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mritunjay67&show_icons=true&theme=tokyonight)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mritunjay67&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mritunjay67&theme=tokyonight" height="160"/>
 </p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mritunjay67&layout=compact&theme=tokyonight)
 
 ---
 
