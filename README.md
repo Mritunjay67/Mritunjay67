@@ -49,9 +49,11 @@ while building real projects step by step.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mritunjay67&show_icons=true&theme=tokyonight" height="160"/>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mritunjay67&layout=compact&theme=tokyonight)
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mritunjay67&theme=tokyonight" height="160"/>
 </p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mritunjay67&layout=compact&theme=tokyonight)
+
 
 ---
 
