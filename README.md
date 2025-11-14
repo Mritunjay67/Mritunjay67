@@ -35,8 +35,6 @@ while building real projects step by step.
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
 ![Security](https://img.shields.io/badge/Ethical_Hacking-EE0000?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mritunjay67&theme=tokyonight)
-
 ---
 
 ## 📌 Current Projects
@@ -48,12 +46,11 @@ while building real projects step by step.
 ---
 
 ## 📊 GitHub Stats
-![Mritunjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mritunjay67&show_icons=true&theme=tokyonight)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mritunjay67&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mritunjay67&theme=tokyonight" height="160"/>
 </p>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mritunjay67&layout=compact&theme=tokyonight)
 
 ---
 
